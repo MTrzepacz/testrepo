@@ -9,6 +9,9 @@ public static void main(String[] args)
 	s = s + i;
 	} 
 	System.out.println(s);
+	System.out.println("hello");
 }
+
+
 
 }
